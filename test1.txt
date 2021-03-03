@@ -3,5 +3,3 @@ test1
 abcdefghik
 
 Nguyen Xuan Bach
-
-ikbo-07-19
